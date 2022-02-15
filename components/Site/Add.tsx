@@ -41,7 +41,7 @@ const AddSiteModal: NextPage = () => {
 
                                 <span className="text-gray-500 text-sm">Name of Required File</span>
                             </div>
-                            <a herf="#" className="flex items-center py-1 px-3 text-gray-800 bg-white text-sm text-center font-medium border border-transparent rounded outline-none focus:ring-2 focus:ring-gray-500 focus:ring-opacity-40">Upload</a>
+                            <a href="#" className="flex items-center py-1 px-3 text-gray-800 bg-white text-sm text-center font-medium border border-transparent rounded outline-none focus:ring-2 focus:ring-gray-500 focus:ring-opacity-40">Upload</a>
                         </div>
                     </div>
                 </div>
